@@ -1,1 +1,2 @@
 name: "Test website"
+output_dir: "docs"

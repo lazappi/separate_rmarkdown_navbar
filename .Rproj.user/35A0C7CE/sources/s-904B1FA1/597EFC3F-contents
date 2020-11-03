@@ -1,7 +1,0 @@
-<div id="nav-placeholder"></div>
-
-<script>
-$(function(){
-  $("#nav-placeholder").load("_navbar-content.html");
-});
-</script>
